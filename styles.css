@@ -1,0 +1,31 @@
+.big-input {
+    width: 300px;
+    height: 200px;
+}
+
+.app-table td {
+    width: 250px;
+}
+
+.app-block td {
+    /*border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;*/
+    border: 1px solid black;
+}
+
+.app-block {
+    border-bottom: 2px solid black;
+}
+
+textarea {
+    resize: none;
+}
+
+a {
+    font-size: 13px;
+}
+
+.classFormDiv label {
+    font-weight: bold;
+}
